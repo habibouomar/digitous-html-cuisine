@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "oswald";
+    src: url('../fonts/Oswald/Oswald-VariableFont_wght.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "courgette";
+    src: url('../fonts/Courgette/Courgette-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+nav{
+    background-color: #000000ac;
+}
+
+.logo{
+    color: white;
+    font-family: "Courgette-Regular";
+    font-size: 20px;
+}
+header{
+    background-image: url("../img/header.jpg");
+    width: 100vw;
+    height: 60vh;
+    background-position: center;
+}
+
+.header-content{
+    background-color: #000000ac;
+    height: 53vh;
+}
+
+i{
+    font-size: 30px;
+    padding: 5px;
+}
+

@@ -1,0 +1,70 @@
+.menu{
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo_square_white{
+   width: 70px;
+   height: 70px;
+}
+
+h1{
+    color: white;
+    font-family: "Courgette-Regular";
+    font-size: 40px;
+}
+
+h2{
+    color: white;
+    font-family: "Oswald-VariableFont_wght";
+    font-size: 40px;
+}
+
+.liste{
+    margin-top: 20px;  
+  
+}
+
+.article-pics{
+
+    width: 230px;
+    height:auto;
+}
+
+.row {
+    height: 17 rem;
+}
+
+h4{
+    color: black;
+    font-family: "Courgette-Regular";
+    font-size: 20px;
+ 
+}
+h5{
+    color: white;
+    font-family: "Courgette-Regular";
+    font-size: 20px;
+
+}
+
+.input{
+    width: 70%;
+}
+
+form{
+    margin-bottom: 20px;
+}
+
+.barre{
+    color: black;
+    font-family: "Courgette-Regular";
+    font-size: 20px;
+}
+
+
